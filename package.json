@@ -1,0 +1,12 @@
+{
+  "name": "random-color-gen",
+  "version": "1.0.0",
+  "description": "Simple Random Color Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alen Inal-Ipa | inalipa.alen@gmail.com",
+  "license": "MIT"
+}
