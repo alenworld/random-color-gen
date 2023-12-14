@@ -1,5 +1,5 @@
 {
-  "name": "random-color-gen",
+  "name": "simple-random-color-gen",
   "version": "1.0.0",
   "description": "Simple Random Color Generator",
   "main": "index.js",
@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "Alen Inal-Ipa | inalipa.alen@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenworld/simple-random-color-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alenworld/simple-random-color-gen/issues"
+  }
 }
